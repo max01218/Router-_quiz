@@ -4,7 +4,7 @@ import React from 'react';
 // import out from './toDoList';
 import ToDoAddForm from './ToDoAddForm';
 import ToDoTitle from './toDoTitle';
-class App extends React.Component {
+class ToDo extends React.Component {
   constructor (props) {
       super (props);
 
@@ -136,4 +136,4 @@ class App extends React.Component {
 //   );
 // }
 
-export default App;
+export default ToDo;
